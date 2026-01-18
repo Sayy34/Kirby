@@ -1,0 +1,112 @@
+# Blender 4.2.3 LTS MTL File: 'bookshielf.blend'
+# www.blender.org
+
+newmtl Matériau.009
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.080054 0.012843 0.012577
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Matériau.010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800576 0.566299 0.125922
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl bois_de_base
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_refl H:/Home/Documents/4A/porjet-vr/Blender/texture/dark-wood-stain-unity/dark-wood-stain_metallic.psd
+map_Bump -bm 1.000000 H:/Home/Documents/4A/porjet-vr/Blender/texture/dark-wood-stain-unity/dark-wood-stain_normal-ogl.png
+
+newmtl cover
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:/Home/Documents/4A/porjet-vr/Blender/texture/brown-leather-bl/brown-leather_albedo.png
+map_Ns H:/Home/Documents/4A/porjet-vr/Blender/texture/brown-leather-bl/brown-leather_roughness.png
+map_refl H:/Home/Documents/4A/porjet-vr/Blender/texture/brown-leather-bl/brown-leather_metallic.png
+map_Bump -bm 1.000000 H:/Home/Documents/4A/porjet-vr/Blender/texture/brown-leather-bl/brown-leather_normal-ogl.png
+
+newmtl cover.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:/Home/Documents/4A/porjet-vr/Blender/texture/brown-leather-bl/brown-leather_albedo.png
+map_Ns H:/Home/Documents/4A/porjet-vr/Blender/texture/brown-leather-bl/brown-leather_albedo.png
+map_refl H:/Home/Documents/4A/porjet-vr/Blender/texture/brown-leather-bl/brown-leather_metallic.png
+map_Bump -bm 1.000000 H:/Home/Documents/4A/porjet-vr/Blender/texture/brown-leather-bl/brown-leather_normal-ogl.png
+
+newmtl cover.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:/Home/Documents/4A/porjet-vr/Blender/texture/brown-leather-bl/brown-leather_albedo.png
+map_Ns H:/Home/Documents/4A/porjet-vr/Blender/texture/brown-leather-bl/brown-leather_albedo.png
+map_refl H:/Home/Documents/4A/porjet-vr/Blender/texture/brown-leather-bl/brown-leather_metallic.png
+map_Bump -bm 1.000000 H:/Home/Documents/4A/porjet-vr/Blender/texture/brown-leather-bl/brown-leather_normal-ogl.png
+
+newmtl cover.003
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:/Home/Documents/4A/porjet-vr/Blender/texture/brown-leather-bl/brown-leather_albedo.png
+map_Ns H:/Home/Documents/4A/porjet-vr/Blender/texture/brown-leather-bl/brown-leather_albedo.png
+map_refl H:/Home/Documents/4A/porjet-vr/Blender/texture/brown-leather-bl/brown-leather_metallic.png
+map_Bump -bm 1.000000 H:/Home/Documents/4A/porjet-vr/Blender/texture/brown-leather-bl/brown-leather_normal-ogl.png
+
+newmtl pages.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:/Home/Documents/4A/porjet-vr/Blender/texture/still-life-stacks-papers-documents.jpg
+
+newmtl pages.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:/Home/Documents/4A/porjet-vr/Blender/texture/still-life-stacks-papers-documents.jpg
+
+newmtl pages.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd H:/Home/Documents/4A/porjet-vr/Blender/texture/still-life-stacks-papers-documents.jpg
